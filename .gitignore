@@ -1,0 +1,5 @@
+# Stark ERP
+node_modules/
+.env
+logs/
+dist/
